@@ -1,1 +1,1 @@
-# AI-Student-Mental-Health
+# AI-Student-Mental-Health-Prediction-System
